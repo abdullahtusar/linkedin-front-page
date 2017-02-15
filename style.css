@@ -1,0 +1,202 @@
+.body{
+	margin:0;
+	padding:0;
+
+}
+.wrapper{
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+.header{
+	
+	background: #333333;
+	width: 100%;
+	height: 65px;
+}
+
+
+.logo{
+	
+    width: 26%;
+    float: left;
+    margin: 12px -110px 0px 511px;
+
+}
+.box1{
+	
+	margin-top:10px;
+	width: 40%;
+	float: left;
+}
+.box1 input{
+	padding: 5px;
+}
+#ps{
+	margin-left: 5px;
+}
+#btn1{
+	border-radius: 4px;
+	background: #8f8f8f;
+	color: #3c3c3c;
+	margin-left: 5px;
+	padding: 5px;
+}
+.box1 a{
+	text-decoration: none;
+	margin-left: 192px;
+    color: #ccc;
+}
+
+.slider1{
+	overflow: hidden;
+	width: 100%;
+	height: 555px;
+	background: url(https://arielle.com.au/wp-content/uploads/2016/04/desktop-coffee-MPB-dark-2-1.jpg);
+	background-size: cover;
+}
+.box2{
+	
+    width: 24%;
+    height: 495px;
+    background: #eee;
+    margin: 28px 0px 0px 711px;
+}
+.box2_1{
+	text-align: center;
+}
+.box2_1 h2{
+	margin-top: 18px;
+    margin-bottom: -8px;
+    font-weight: 500;
+    padding-top: 18px;
+}
+.box2_1 p{
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 18px;
+}
+.box2_2{
+	padding-left: 33px;
+	margin-top: 24px;
+}
+#fn{
+	padding: 17px 212px 0px 0px;
+	color: #66696a;
+}
+.box2_2 p{
+	margin-bottom: 0;
+	color: #66696a;
+}
+.box2_3{
+	padding-left: 33px;
+}
+.box2_3 p{
+	text-align: center;
+    margin-left: -27px;
+    font-size: 14px;
+    color: #66696a;
+}
+.box2_3 a{
+	text-decoration: none;
+    color: black;
+}
+#btn2{
+	width: 375px;
+    padding: 8px;
+    background: #f7d50f;
+    margin-left: 2px;
+    font-size: 17px;
+    background: linear-gradient(#EDDA11, #F6C70C);
+    border: 1px solid #E9AC1A;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #333333;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.slider2{
+	overflow: hidden;
+	background: #333333;
+}
+.box3_1 form{
+	text-align: center;
+}
+#txt{
+	display: inline-block;
+    margin-right: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ccc;
+    font-size: 14px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+.box3_1 input{
+	display: inline-block;
+    height: 22px;
+    width: 222px;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+
+#btn3{
+	border-radius: 4px;
+    background: #8f8f8f;
+    color: #3c3c3c;
+    margin-left: 0px;
+    padding: 5px;
+    width: 69px;
+    font-weight: bold;
+}
+#p3_11{
+	display: inline-block;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ccc;
+    color: #ccc;
+    font-size: 12px;
+    margin-top: 7px;
+    margin-left: 575px;
+}
+.box3_1 a{
+	text-decoration: none;
+    color: #00657e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.box3_1 span{
+	color:#ccc;
+}
+#p3_12{
+	color: #827d7d;
+    margin-left: 496px;
+    margin-top: -2px;
+}
+.box3_2{
+	float: left;
+	color: #ccc;
+	margin-left: 500px;
+}
+.box3_3 p{
+	font-weight: bold;
+}
+.box3_2 a{
+	text-decoration: none;
+	color: #ccc;
+	font-size: 14px;
+}
+.box3_3{
+	float: left;
+	color: #ccc;
+	margin-left: 70px;
+}
+.box3_3 p{
+	font-weight: bold;
+}
+.box3_3 a{
+	text-decoration: none;
+	color: #ccc;
+	font-size: 14px;
+}
